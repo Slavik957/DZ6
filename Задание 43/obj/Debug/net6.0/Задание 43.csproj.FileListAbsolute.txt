@@ -1,0 +1,15 @@
+D:\GeekBrains\Seminar 6\Домашнее задание\Задание 43\bin\Debug\net6.0\Задание 43.exe
+D:\GeekBrains\Seminar 6\Домашнее задание\Задание 43\bin\Debug\net6.0\Задание 43.deps.json
+D:\GeekBrains\Seminar 6\Домашнее задание\Задание 43\bin\Debug\net6.0\Задание 43.runtimeconfig.json
+D:\GeekBrains\Seminar 6\Домашнее задание\Задание 43\bin\Debug\net6.0\Задание 43.dll
+D:\GeekBrains\Seminar 6\Домашнее задание\Задание 43\bin\Debug\net6.0\Задание 43.pdb
+D:\GeekBrains\Seminar 6\Домашнее задание\Задание 43\obj\Debug\net6.0\Задание 43.csproj.AssemblyReference.cache
+D:\GeekBrains\Seminar 6\Домашнее задание\Задание 43\obj\Debug\net6.0\Задание 43.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Seminar 6\Домашнее задание\Задание 43\obj\Debug\net6.0\Задание 43.AssemblyInfoInputs.cache
+D:\GeekBrains\Seminar 6\Домашнее задание\Задание 43\obj\Debug\net6.0\Задание 43.AssemblyInfo.cs
+D:\GeekBrains\Seminar 6\Домашнее задание\Задание 43\obj\Debug\net6.0\Задание 43.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Seminar 6\Домашнее задание\Задание 43\obj\Debug\net6.0\Задание 43.dll
+D:\GeekBrains\Seminar 6\Домашнее задание\Задание 43\obj\Debug\net6.0\refint\Задание 43.dll
+D:\GeekBrains\Seminar 6\Домашнее задание\Задание 43\obj\Debug\net6.0\Задание 43.pdb
+D:\GeekBrains\Seminar 6\Домашнее задание\Задание 43\obj\Debug\net6.0\Задание 43.genruntimeconfig.cache
+D:\GeekBrains\Seminar 6\Домашнее задание\Задание 43\obj\Debug\net6.0\ref\Задание 43.dll
